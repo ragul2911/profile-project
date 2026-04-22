@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../social-links-profile-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html-p01"
+	}
+}
